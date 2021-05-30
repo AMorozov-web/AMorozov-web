@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Redux-code-FF9200?style=flat-square&logo=Redux&labelColor=black">
     <img src="https://img.shields.io/badge/StyledComponents-code-FF9200?style=flat-square&logo=styled-components&labelColor=black">
     <img src="https://img.shields.io/badge/Jest-code-FF9200?style=flat-square&logo=Jest&labelColor=black">
-    <img src="https://img.shields.io/badge/NodeJS-code-FF9200?style=flat-square&logo=Node-js&labelColor=black">
+    <img src="https://img.shields.io/badge/NodeJS-code-FF9200?style=flat-square&labelColor=black">
   </div><br>
   <div>
     <img src="https://img.shields.io/badge/ESlint-tool-1924B1?style=flat-square&logo=ESlint&labelColor=black">
