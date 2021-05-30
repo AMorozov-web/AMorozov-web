@@ -39,14 +39,14 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AMorozov-web&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=27&text_color=000&icon_color=000&bg_color=ffa400,ffcc40,ff9400,009999,00a287&theme=graywhite" /><br>
 </details>
 <br>
-<table width="900">
+<table>
   <tr>
     <th colspan="2" style="font-size: 18px; font-weight: 700; text-transform: uppercase;">Проекты</th>
   </tr>
   <tr>
-    <td rowspan="2" width="450">
+    <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Keksobooking-21">
-        <b>[Учебный проект] Сервис аренды жилья "Кексобукинг"</b>
+        <b>[Учебный проект] Кексобукинг</b>
       </a>
     </td>
     <td>
@@ -55,13 +55,13 @@
   </tr>
   <tr>
     <td>
-      SPA на чистом JS.
+      SPA на JS
     </td>
   </tr>
   <tr>
-    <td rowspan="2" width="450">
+    <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Pognali-28">
-        <b>[Учебный проект] Сервис поиска попутчиков "Погнали"</b>
+        <b>[Учебный проект] Погнали</b>
       </a>
     </td>
     <td>
@@ -69,18 +69,18 @@
     </td>
   </tr>
   <tr>
-    <td>Адаптивный сайт</td>
+    <td>Адаптивный сайт сервиса поиска попутчиков</td>
   </tr>
   <tr>
-    <td rowspan="2" width="450">
+    <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Gllacy-28">
-        <b>[Учебный проект] Магазин мороженого "Gllacy"</b>
+        <b>[Учебный проект] Gllacy</b>
       </a>
     </td>
     <td>HTML5, CSS3, JS</td>
   </tr>
   <tr>
-    <td>Статичный сайт интернет-магазина</td>
+    <td>Статичный сайт интернет-магазина мороженого</td>
   </tr>
 </table>
 
