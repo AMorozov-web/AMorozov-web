@@ -6,12 +6,12 @@
 <a target="_blank" href="mailto:alex.morozov.webdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1f1f1f?style=flat-square&logo=Gmail&labelColor=1f1f1f"/>
 </a>
-
+<br>
 Меня зовут Алексей, и я делаю Frontend и совсем чуть-чуть Backend😉<br>
 
 А свободное время посвящаю книгам, изучению английского языка и прогулкам<br>
-
-<h3>В&nbsp;работе&nbsp;использую:</h3>
+<br>
+<h3>В&nbsp;работе&nbsp;использую:</h3><br>
 <div>
   <div>
     <img src="https://img.shields.io/badge/HTML5-code-FF9200?style=flat-square&logo=HTML5&labelColor=black"/>
@@ -33,12 +33,12 @@
     <img src="https://img.shields.io/badge/Figma-tool-1924B1?style=flat-square&logo=Figma&labelColor=black">
   </div>
 </div>
-
+<br>
 <details>
   <summary>Статистика</summary>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AMorozov-web&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=27&text_color=000&icon_color=000&bg_color=ffa400,ffcc40,ff9400,009999,00a287&theme=graywhite" /><br>
 </details>
-
+<br>
 <table>
   <tr>
     <th colspan="2" style="font-size: 18px; font-weight: 700; text-transform: uppercase;">Проекты</th>
