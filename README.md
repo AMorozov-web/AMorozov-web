@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/BEM-code-FF9200?style=flat-square&labelColor=black"/>
     <img src="https://img.shields.io/badge/Sass-code-FF9200?style=flat-square&logo=Sass&labelColor=black">
     <img src="https://img.shields.io/badge/Javascript-code-FF9200?style=flat-square&logo=Javascript&labelColor=black"/>
-    <img src="https://img.shields.io/badge/React-code-FF9200?style=flat-square&logo=React&labelColor=black">
+    <img src="https://img.shields.io/badge/React-code-FF9200?style=flat-square&logo=React&labelColor=black"><br>
     <img src="https://img.shields.io/badge/Redux-code-FF9200?style=flat-square&logo=Redux&labelColor=black">
     <img src="https://img.shields.io/badge/StyledComponents-code-FF9200?style=flat-square&logo=styled-components&labelColor=black">
     <img src="https://img.shields.io/badge/Jest-code-FF9200?style=flat-square&logo=Jest&labelColor=black">
