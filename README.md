@@ -8,9 +8,9 @@
 </a>
 <br>
 <br>
-Меня зовут Алексей, и я делаю Frontend и совсем чуть-чуть Backend😉<br>
+  Меня зовут Алексей, и я делаю Frontend и совсем чуть-чуть Backend😉<br>
 
-А свободное время посвящаю книгам, изучению английского языка и прогулкам<br>
+  А свободное время посвящаю книгам, изучению английского языка и прогулкам<br>
 <h3>В&nbsp;работе&nbsp;использую:</h3><br>
 <div>
   <div>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Redux-code-FF9200?style=flat-square&logo=Redux&labelColor=black">
     <img src="https://img.shields.io/badge/StyledComponents-code-FF9200?style=flat-square&logo=styled-components&labelColor=black">
     <img src="https://img.shields.io/badge/Jest-code-FF9200?style=flat-square&logo=Jest&labelColor=black">
-    <img src="https://img.shields.io/badge/NodeJS-code-FF9200?style=flat-square&logo=NodeJS&labelColor=black">
+    <img src="https://img.shields.io/badge/NodeJS-code-FF9200?style=flat-square&logo=Node.js&labelColor=black">
   </div><br>
   <div>
     <img src="https://img.shields.io/badge/ESlint-tool-1924B1?style=flat-square&logo=ESlint&labelColor=black">
@@ -45,8 +45,23 @@
   </tr>
   <tr>
     <td rowspan="2" width="360">
+      <a target="_blank" href="https://github.com/AMorozov-web/What-to-watch-6">
+        <b>[Учебный проект] "Что посмотреть?"</b>
+      </a>
+    </td>
+    <td>
+      React, Redux, Jest, React Testing Library, Webpack
+    </td>
+  </tr>
+  <tr>
+    <td>
+      SPA на React/Redux - онлайн-кинотеатр
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Big-trip-13">
-        <b>[Учебный проект] Большое путешествие</b>
+        <b>[Учебный проект] "Большое путешествие"</b>
       </a>
     </td>
     <td>
@@ -61,7 +76,7 @@
   <tr>
     <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Keksobooking-21">
-        <b>[Учебный проект] Кексобукинг</b>
+        <b>[Учебный проект] "Кексобукинг"</b>
       </a>
     </td>
     <td>
@@ -76,7 +91,7 @@
   <tr>
     <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Pognali-28">
-        <b>[Учебный проект] Погнали</b>
+        <b>[Учебный проект] "Погнали"</b>
       </a>
     </td>
     <td>
@@ -89,7 +104,7 @@
   <tr>
     <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Gllacy-28">
-        <b>[Учебный проект] Gllacy</b>
+        <b>[Учебный проект] "Gllacy"</b>
       </a>
     </td>
     <td>HTML5, CSS3, JS</td>
