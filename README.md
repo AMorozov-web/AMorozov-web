@@ -44,7 +44,7 @@
     <th colspan="2" style="font-size: 18px; font-weight: 700; text-transform: uppercase;">Проекты</th>
   </tr>
   <tr>
-    <td rowspan="2" width="200">
+    <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Keksobooking-21">
         <b>[Учебный проект] Сервис аренды жилья "Кексобукинг"</b>
       </a>
@@ -59,7 +59,7 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2">
+    <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Pognali-28">
         <b>[Учебный проект] Сервис поиска попутчиков "Погнали"</b>
       </a>
@@ -72,7 +72,7 @@
     <td>Адаптивный сайт</td>
   </tr>
   <tr>
-    <td rowspan="2" width="200">
+    <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Gllacy-28">
         <b>[Учебный проект] Магазин мороженого "Gllacy"</b>
       </a>
