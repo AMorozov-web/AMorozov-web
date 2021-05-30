@@ -45,6 +45,21 @@
   </tr>
   <tr>
     <td rowspan="2" width="360">
+      <a target="_blank" href="https://github.com/AMorozov-web/Big-trip-13">
+        <b>[Учебный проект] Большое путешествие</b>
+      </a>
+    </td>
+    <td>
+      JS, Webpack
+    </td>
+  </tr>
+  <tr>
+    <td>
+      SPA на Vanilla JS - сервис планирования путешествий
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Keksobooking-21">
         <b>[Учебный проект] Кексобукинг</b>
       </a>
@@ -55,7 +70,7 @@
   </tr>
   <tr>
     <td>
-      SPA на JS
+      SPA на Vanilla JS - сервис поиска жилья
     </td>
   </tr>
   <tr>
