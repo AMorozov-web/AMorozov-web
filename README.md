@@ -1,4 +1,4 @@
-### Привет! 👋
+# Привет всем! 👋
 
 <a target="_blank" href="https://t.me/AlexMorozovDev">
     <img src="https://img.shields.io/badge/Telegram-1f1f1f?style=flat-square&logo=Telegram&labelColor=1f1f1f"/>
@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td rowspan="2" width="360">
-      <a target="_blank" href="https://github.com/AMorozov-web/Pognali-28">
+      <a target="_blank" href="https://github.com/AMorozov-web/Pognali-20">
         <b>[Учебный проект] "Погнали"</b>
       </a>
     </td>
@@ -104,7 +104,7 @@
   <tr>
     <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Gllacy-28">
-        <b>[Учебный проект] "Gllacy"</b>
+        <b>[Учебный проект] "Глейси"</b>
       </a>
     </td>
     <td>HTML5, CSS3, JS</td>
