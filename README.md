@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/ESlint-tool-1924B1?style=flat-square&logo=ESlint&labelColor=black">
     <img src="https://img.shields.io/badge/Webpack-tool-1924B1?style=flat-square&logo=Webpack&labelColor=black">
     <img src="https://img.shields.io/badge/TravisCI-tool-1924B1?style=flat-square&logo=Travis-CI&labelColor=black">
-    <img src="https://img.shields.io/badge/ghPages-tool-1924B1?style=flat-square&logo=GitHub&labelColor=black">
+    <img src="https://img.shields.io/badge/Vercel-tool-1924B1?style=flat-square&logo=Vercel&labelColor=black">
     <img src="https://img.shields.io/badge/Figma-tool-1924B1?style=flat-square&logo=Figma&labelColor=black">
   </div>
 </div>
