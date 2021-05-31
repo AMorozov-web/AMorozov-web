@@ -104,7 +104,7 @@
   <tr>
     <td rowspan="2" width="360">
       <a target="_blank" href="https://github.com/AMorozov-web/Gllacy-28">
-        <b>[Учебный проект] "Gllacy"</b>
+        <b>[Учебный проект] "Глейси"</b>
       </a>
     </td>
     <td>HTML5, CSS3, JS</td>
