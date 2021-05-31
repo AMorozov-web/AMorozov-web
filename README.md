@@ -1,4 +1,4 @@
-### Привет! 👋
+# Привет всем! 👋
 
 <a target="_blank" href="https://t.me/AlexMorozovDev">
     <img src="https://img.shields.io/badge/Telegram-1f1f1f?style=flat-square&logo=Telegram&labelColor=1f1f1f"/>
