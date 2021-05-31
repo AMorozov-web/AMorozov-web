@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td rowspan="2" width="360">
-      <a target="_blank" href="https://github.com/AMorozov-web/Pognali-28">
+      <a target="_blank" href="https://github.com/AMorozov-web/Pognali-20">
         <b>[Учебный проект] "Погнали"</b>
       </a>
     </td>
