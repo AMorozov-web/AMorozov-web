@@ -42,7 +42,7 @@
 <table>
   <tr>
     <th colspan="2">
-      ##Проекты
+      Проекты
     </th>
   </tr>
   <tr>
