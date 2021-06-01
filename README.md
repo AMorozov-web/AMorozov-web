@@ -42,7 +42,7 @@
 <table>
   <tr>
     <th colspan="2" style="font-size:27px;font-weight:700;text-transform:uppercase;">
-      <p>Проекты</p>
+      <p style="margin:0;">Проекты</p>
     </th>
   </tr>
   <tr>
