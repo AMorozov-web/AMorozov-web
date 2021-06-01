@@ -41,8 +41,8 @@
 <br>
 <table>
   <tr>
-    <th colspan="2" style="font-size:27px;font-weight:700;text-transform:uppercase;">
-      <p margin="0">Проекты</p>
+    <th colspan="2">
+      Проекты
     </th>
   </tr>
   <tr>
