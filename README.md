@@ -41,7 +41,7 @@
 <br>
 <table>
   <tr>
-    <th colspan="2" style="font-size: 27px; font-weight: 700; text-transform: uppercase;">Проекты</th>
+    <th colspan="2" style="font-size:27px;font-weight:700;text-transform:uppercase;">Проекты</th>
   </tr>
   <tr>
     <td rowspan="2" width="360">
