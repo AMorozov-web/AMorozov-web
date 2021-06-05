@@ -58,7 +58,7 @@
     </td>
     <td rowspan="2" width="100">
       <a target="_blank" href="https://github.com/AMorozov-web/What-to-watch-6">
-        <img alt="repository icon" src="https://c0.klipartz.com/pngpicture/547/938/gratis-png-equipo-iconos-icono-diseno-apple-icono-formato-carpeta-amarilla-s.png" />
+        <img alt="repository icon" src="https://w7.pngwing.com/pngs/568/36/png-transparent-emoji-file-folders-directory-ring-binder-emoji-angle-rectangle-orange.png" />
       </a>
     </td>
     <td>
