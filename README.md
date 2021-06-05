@@ -56,9 +56,9 @@
         <b>[Учебный проект] "Что посмотреть?"</b>
       </a>
     </td>
-    <td rowspan="2" width="100">
+    <td rowspan="2" width="100" text-align="center">
       <a target="_blank" href="https://github.com/AMorozov-web/What-to-watch-6">
-        <img width="50" text-align="center" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
+        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
       </a>
     </td>
     <td>
