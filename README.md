@@ -46,7 +46,7 @@
     </th>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="270">
       <a target="_blank" href="https://github.com/AMorozov-web/What-to-watch-6">
         <b>[Учебный проект] "Что посмотреть?"</b>
       </a>
