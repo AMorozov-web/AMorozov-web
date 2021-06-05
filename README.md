@@ -49,7 +49,7 @@
     </th>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="297">
       <b>[Учебный проект] "Что посмотреть?"</b>
     </td>
     <td rowspan="2" width="78">
@@ -72,7 +72,7 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="297">
       <b>[Учебный проект] "Большое путешествие"</b>
     </td>
     <td rowspan="2" width="78">
@@ -95,7 +95,7 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="297">
       <b>[Учебный проект] "Кексобукинг"</b>
     </td>
     <td rowspan="2" width="78">
@@ -118,7 +118,7 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="297">
       <b>[Учебный проект] "Погнали"</b>
     </td>
     <td rowspan="2" width="78">
@@ -139,7 +139,7 @@
     <td>Адаптивный сайт сервиса поиска попутчиков</td>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="297">
       <b>[Учебный проект] "Глейси"</b>
     </td>
     <td rowspan="2" width="78">
