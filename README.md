@@ -53,7 +53,7 @@
     </td>
     <td rowspan="2" width="100">
       <a target="_blank" href="https://github.com/AMorozov-web/What-to-watch-6">
-        <b>[Учебный проект] "Что посмотреть?"</b>
+        <img width="50" alt="online icon" src="https://svgshare.com/i/XuF.svg" />
       </a>
     </td>
     <td rowspan="2" width="78">
