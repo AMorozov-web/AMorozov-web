@@ -61,7 +61,7 @@
         <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
       </a>
     </td>
-    <td width="100%">
+    <td width="fit-content">
       React, Redux, Jest, React Testing Library, Webpack
     </td>
   </tr>
