@@ -53,7 +53,7 @@
     </td>
     <td rowspan="2" width="78">
       <a target="_blank" href="https://github.com/AMorozov-web/What-to-watch-6">
-        <img width="50" alt="online icon" src="https://svgshare.com/i/XuF.svg" />
+        <img width="50" alt="online icon" src="https://svgshare.com/i/Xsi.svg" />
       </a>
     </td>
     <td rowspan="2" width="78">
