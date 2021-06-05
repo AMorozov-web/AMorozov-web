@@ -47,9 +47,7 @@
   </tr>
   <tr>
     <td rowspan="2" width="270">
-      <a target="_blank" href="https://github.com/AMorozov-web/What-to-watch-6">
-        <b>[Учебный проект] "Что посмотреть?"</b>
-      </a>
+      <b>[Учебный проект] "Что посмотреть?"</b>
     </td>
     <td rowspan="2" width="78">
       <a target="_blank" href="https://github.com/AMorozov-web/What-to-watch-6">
@@ -72,8 +70,16 @@
   </tr>
   <tr>
     <td rowspan="2" width="270">
+      <b>[Учебный проект] "Большое путешествие"</b>
+    </td>
+    <td rowspan="2" width="78">
       <a target="_blank" href="https://github.com/AMorozov-web/Big-trip-13">
-        <b>[Учебный проект] "Большое путешествие"</b>
+        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
+      </a>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://github.com/AMorozov-web/Big-trip-13">
+        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
       </a>
     </td>
     <td>
@@ -87,8 +93,16 @@
   </tr>
   <tr>
     <td rowspan="2" width="270">
+      <b>[Учебный проект] "Кексобукинг"</b>
+    </td>
+    <td rowspan="2" width="78">
       <a target="_blank" href="https://github.com/AMorozov-web/Keksobooking-21">
-        <b>[Учебный проект] "Кексобукинг"</b>
+        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
+      </a>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://github.com/AMorozov-web/Keksobooking-21">
+        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
       </a>
     </td>
     <td>
@@ -102,8 +116,16 @@
   </tr>
   <tr>
     <td rowspan="2" width="270">
+      <b>[Учебный проект] "Погнали"</b>
+    </td>
+    <td rowspan="2" width="78">
       <a target="_blank" href="https://github.com/AMorozov-web/Pognali-20">
-        <b>[Учебный проект] "Погнали"</b>
+        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
+      </a>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://github.com/AMorozov-web/Pognali-20">
+        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
       </a>
     </td>
     <td>
@@ -115,8 +137,16 @@
   </tr>
   <tr>
     <td rowspan="2" width="270">
+      <b>[Учебный проект] "Глейси"</b>
+    </td>
+    <td rowspan="2" width="78">
       <a target="_blank" href="https://github.com/AMorozov-web/Gllacy-28">
-        <b>[Учебный проект] "Глейси"</b>
+        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
+      </a>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://github.com/AMorozov-web/Gllacy-28">
+        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
       </a>
     </td>
     <td>HTML5, CSS3, JS</td>
