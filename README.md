@@ -51,11 +51,11 @@
         <b>[Учебный проект] "Что посмотреть?"</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       React, Redux, Jest, React Testing Library, Webpack
     </td>
-  </tr>
-  <tr>
     <td>
       SPA на React/Redux - онлайн-кинотеатр
     </td>
