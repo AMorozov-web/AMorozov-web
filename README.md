@@ -53,7 +53,7 @@
       <b>[Учебный проект] "Что посмотреть?"</b>
     </td>
     <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/AMorozov-web/What-to-watch-6">
+      <a target="_blank" href="https://what-to-watch-6.vercel.app">
         <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
       </a>
     </td>
@@ -76,7 +76,7 @@
       <b>[Учебный проект] "Большое путешествие"</b>
     </td>
     <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/AMorozov-web/Big-trip-13">
+      <a target="_blank" href="https://big-trip-13.vercel.app">
         <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
       </a>
     </td>
@@ -99,7 +99,7 @@
       <b>[Учебный проект] "Кексобукинг"</b>
     </td>
     <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/AMorozov-web/Keksobooking-21">
+      <a target="_blank" href="https://keksobooking-21-zeta.vercel.app">
         <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
       </a>
     </td>
@@ -122,7 +122,7 @@
       <b>[Учебный проект] "Погнали"</b>
     </td>
     <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/AMorozov-web/Pognali-20">
+      <a target="_blank" href="https://pognali-20.vercel.app">
         <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
       </a>
     </td>
@@ -143,7 +143,7 @@
       <b>[Учебный проект] "Глейси"</b>
     </td>
     <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/AMorozov-web/Gllacy-28">
+      <a target="_blank" href="https://gllacy-chi.vercel.app">
         <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
       </a>
     </td>
