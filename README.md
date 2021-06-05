@@ -41,7 +41,7 @@
 <br>
 <table>
   <tr>
-    <th colspan="2">
+    <th colspan="4">
       Проекты
     </th>
   </tr>
