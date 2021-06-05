@@ -61,7 +61,7 @@
         <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
       </a>
     </td>
-    <td>
+    <td width="100%">
       React, Redux, Jest, React Testing Library, Webpack
     </td>
   </tr>
@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="270">
       <a target="_blank" href="https://github.com/AMorozov-web/Big-trip-13">
         <b>[Учебный проект] "Большое путешествие"</b>
       </a>
@@ -86,7 +86,7 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="270">
       <a target="_blank" href="https://github.com/AMorozov-web/Keksobooking-21">
         <b>[Учебный проект] "Кексобукинг"</b>
       </a>
@@ -101,7 +101,7 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="270">
       <a target="_blank" href="https://github.com/AMorozov-web/Pognali-20">
         <b>[Учебный проект] "Погнали"</b>
       </a>
@@ -114,7 +114,7 @@
     <td>Адаптивный сайт сервиса поиска попутчиков</td>
   </tr>
   <tr>
-    <td rowspan="2" width="360">
+    <td rowspan="2" width="270">
       <a target="_blank" href="https://github.com/AMorozov-web/Gllacy-28">
         <b>[Учебный проект] "Глейси"</b>
       </a>
