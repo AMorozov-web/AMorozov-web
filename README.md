@@ -143,7 +143,7 @@
       <b>[Учебный проект] "Глейси"</b>
     </td>
     <td rowspan="2" width="78">
-      <a target="_blank" href="https://gllacy-28v.vercel.app/">
+      <a target="_blank" href="https://gllacy-28-lac.vercel.app/">
         <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
       </a>
     </td>
